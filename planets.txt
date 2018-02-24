@@ -1,0 +1,8 @@
+Mercury,3.3e+23,2.4e+06
+Venus,4.9e+24,6.1e+06
+Earth,5.97e+24,6.4e+06
+Mars,6.4e+23,3.4e+06 
+Jupiter,1.9e+27,7.1e+07 
+Saturn,5.7e+26,6.0e+07
+Uranus,8.9e+25,2.6e+07 
+Neptune,1.0e+26,2.5e+07
